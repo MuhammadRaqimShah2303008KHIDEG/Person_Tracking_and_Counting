@@ -1,0 +1,5 @@
+firebase_admin==6.3.0
+opencv_contrib_python_headless==4.8.1.78
+opencv_python==4.8.1.78
+opencv_python_headless==4.8.0.74
+ultralytics==8.0.213
